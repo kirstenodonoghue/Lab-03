@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "Kirsten, Sophie, Janice, Nicolás"
+author: ", Sophie, Janice, Kirsten Nicolás"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,7 +20,7 @@ nobel <- read_csv("data/nobel.csv")
 
 #### Narrative
 
-*Remove this text and add your answer here.*
+
 
 
 ### Exercise 2
