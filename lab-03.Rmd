@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "Kirsten, Sophie, Janice"
+author: "Kirsten, Sophie, Janice, Nicolás"
 date: "`r Sys.Date()`"
 output: html_document
 ---
